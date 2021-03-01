@@ -1,4 +1,4 @@
-<h1> Hi There 👋</h1>
+<h1> Greetings 👋</h1>
 
 Sou UI/UX designer e desenvolvedor front-end e atualmente estou trabalhando no meu projeto pessoal Waymaker. Sou apaixonado por tecnologia, inovação, empreendedorismo e projetos sociais. Busco sempre aprimorar meus conhecimentos e minhas habilidades. Atualmente estou mergulhado no estudo das ferramentas ReactJs e NextJs.  Estou à procura de uma colocação no mercado de trabalho ou colaborar em projetos sociais ou opensource. Toda a colaboração é bem vinda, vamos fazer desse mundo um lugar melhor.  :revolving_hearts: :muscle:
 <a href="https://www.linkedin.com/in/felipe-sales-0336a73a/" >
